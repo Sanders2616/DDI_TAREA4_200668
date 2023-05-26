@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="hello_world">From the Round world,\nHello, %1$s!</string>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="AppNameStyle" parent="TextAppearance.AppCompat">
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>
+
